@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">studentinfo</string>
+    <string-array name="departments_array">
+        <item>Anthropology</item>
+        <item>Bioinformatics</item>
+        <item>Biology</item>
+        <item>BoraLaskin Faculty of Law</item>
+        <item>Business Administration</item>
+        <item>Chemical Engineering</item>
+        <item>Chemistry</item>
+        <item>Civil Engineering</item>
+        <item>Computer Science</item>
+        <item>Economics</item>
+        <item>Education</item>
+        <item>Electrical and Computer Engineering</item>
+        <item>English</item>
+        <item>Gender and Women Studies</item>
+        <item>Geography and the Environment</item>
+        <item>Geology</item>
+        <item>Gerontology</item>
+        <item>Health Sciences</item>
+        <item>History</item>
+        <item>Indigenous Learning</item>
+        <item>Indigenous Nursing Entry Program (INEP)</item>
+        <item>Interdisciplinary Studies</item>
+        <item>Keewatinase Department of Indigenous Education</item>
+        <item>Kinesiology</item>
+        <item>Languages</item>
+        <item>Mathematical Sciences</item>
+        <item>Mechanical and Mechatronics Engineering</item>
+        <item>Music</item>
+        <item>Natural Resources Management</item>
+        <item>Northern Studies</item>
+        <item>Nursing</item>
+        <item>Outdoor Recreation Parks and Tourism</item>
+        <item>Philosophy</item>
+        <item>Physics</item>
+        <item>Political Science</item>
+        <item>Psychology</item>
+        <item>Social Justice Studies</item>
+        <item>Social Work</item>
+        <item>Sociology</item>
+        <item>Software Engineering</item>
+        <item>Sustainability Sciences</item>
+        <item>Visual Arts</item>
+        <item>Water Resource Science</item>
+    </string-array>
+</resources>
